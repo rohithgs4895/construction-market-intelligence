@@ -1,0 +1,23 @@
+Construction Market Intelligence — Published Feature Layers
+============================================================
+
+Title    : CMI_Market_Boundaries
+Item ID  : 6343006262b844bda036f5ec68e6038c
+REST URL : https://services7.arcgis.com/yqi6pErDrXK6551P/arcgis/rest/services/CMI_Market_Boundaries/FeatureServer
+Portal   : https://www.arcgis.com/home/item.html?id=6343006262b844bda036f5ec68e6038c
+
+Title    : CMI_Permit_Hotspots
+Item ID  : 33c4c9fd6dfa433880f419e52579c9e6
+REST URL : https://services7.arcgis.com/yqi6pErDrXK6551P/arcgis/rest/services/CMI_Permit_Hotspots/FeatureServer
+Portal   : https://www.arcgis.com/home/item.html?id=33c4c9fd6dfa433880f419e52579c9e6
+
+Title    : CMI_Competitor_Locations
+Item ID  : 77089aaff3f74d70a578cd2c5e273378
+REST URL : https://services7.arcgis.com/yqi6pErDrXK6551P/arcgis/rest/services/CMI_Competitor_Locations/FeatureServer
+Portal   : https://www.arcgis.com/home/item.html?id=77089aaff3f74d70a578cd2c5e273378
+
+Title    : CMI_Market_Summary
+Item ID  : 3176eda836524013a2240b2b01f6e3f9
+REST URL : https://services7.arcgis.com/yqi6pErDrXK6551P/arcgis/rest/services/CMI_Market_Summary/FeatureServer
+Portal   : https://www.arcgis.com/home/item.html?id=3176eda836524013a2240b2b01f6e3f9
+
